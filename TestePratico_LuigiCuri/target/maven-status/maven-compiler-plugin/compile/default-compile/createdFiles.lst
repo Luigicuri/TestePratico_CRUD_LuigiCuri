@@ -1,0 +1,13 @@
+com\produtos_servicos\exceptions\ErrorDetails.class
+com\produtos_servicos\exceptions\GlobalExceptionHandler.class
+com\produtos_servicos\pedidos\model\Order.class
+com\produtos_servicos\OrderedItems\model\OrderedItem.class
+com\produtos_servicos\OrderedItems\repository\OrderedItemRepository.class
+com\produtos_servicos\TestePraticoLuigiCuriApplication.class
+com\produtos_servicos\pedidos\controller\OrderController.class
+com\produtos_servicos\items\controller\ItemController.class
+com\produtos_servicos\pedidos\repository\OrderRepository.class
+com\produtos_servicos\items\model\Item.class
+com\produtos_servicos\exceptions\ResourceNotFoundException.class
+com\produtos_servicos\items\repository\ItemRepository.class
+com\produtos_servicos\OrderedItems\controller\OrderedItemController.class
