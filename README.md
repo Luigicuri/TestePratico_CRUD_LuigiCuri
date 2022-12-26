@@ -69,6 +69,3 @@ LIST all orders - Método GET - URL: http://localhost:8080/api/orders
 - [x] Implement the CRUD methods in Controller classes
 - [x] Create Exceptions
 - [x] List, Create, Read, Update and Delete items and products in JSON format
-- [ ] Implement OrderedItem API 
-- [ ] Model OrderedItem attributes itemId and orderId as PK and FK from tables Item, Order
-- [ ] Implement percentualDiscount
